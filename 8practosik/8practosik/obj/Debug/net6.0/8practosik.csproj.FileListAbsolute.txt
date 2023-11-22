@@ -1,0 +1,14 @@
+C:\C#\skoropechat\8practosik\8practosik\obj\Debug\net6.0\8practosik.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\skoropechat\8practosik\8practosik\obj\Debug\net6.0\8practosik.AssemblyInfoInputs.cache
+C:\C#\skoropechat\8practosik\8practosik\obj\Debug\net6.0\8practosik.AssemblyInfo.cs
+C:\C#\skoropechat\8practosik\8practosik\obj\Debug\net6.0\8practosik.csproj.CoreCompileInputs.cache
+C:\C#\skoropechat\8practosik\8practosik\bin\Debug\net6.0\8practosik.exe
+C:\C#\skoropechat\8practosik\8practosik\bin\Debug\net6.0\8practosik.deps.json
+C:\C#\skoropechat\8practosik\8practosik\bin\Debug\net6.0\8practosik.runtimeconfig.json
+C:\C#\skoropechat\8practosik\8practosik\bin\Debug\net6.0\8practosik.dll
+C:\C#\skoropechat\8practosik\8practosik\bin\Debug\net6.0\8practosik.pdb
+C:\C#\skoropechat\8practosik\8practosik\obj\Debug\net6.0\8practosik.dll
+C:\C#\skoropechat\8practosik\8practosik\obj\Debug\net6.0\refint\8practosik.dll
+C:\C#\skoropechat\8practosik\8practosik\obj\Debug\net6.0\8practosik.pdb
+C:\C#\skoropechat\8practosik\8practosik\obj\Debug\net6.0\8practosik.genruntimeconfig.cache
+C:\C#\skoropechat\8practosik\8practosik\obj\Debug\net6.0\ref\8practosik.dll
